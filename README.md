@@ -1,8 +1,26 @@
 
-## TAREAS HECHAS
+## Misiones HECHAS
 - Misión 1: A, B, C Retos A, B, C
 - Misión 2:  A (Solo Backend), B (Solo Backend), C
 - Misión 3:  B Reto B (No implementado)
+
+## Primeros pasos
+1. <p>Dentro del directorio backend crear un fichero con el nombre de .env con el siguiente contenido que tendras que completar con tus configuraciones</p>
+ * PORT=9000
+ * NODE_ENV="dev"
+* SECRETKEY = 
+* API_GOREST = 
+- PORT_DB=3306
+- USER_DB=
+- PASSWORD_DB=
+- DATABASE_DB="pixomaticjec"
+- HOST_DB="localhost"
+
+2. <p> Ejecutar los scripts de SQL dentro de la base de datos, estos los encontrara en la carpeta SQL<p>
+
+3. <p>Abre una terminal en el directorio backend y ejecuta el comando npm run start<p>
+ 4. <p>Abre una terminal en el directorio frontend y ejecuta el comando ng serve<p>
+   5. Todo listo!
 
 
 ## Misión 1
