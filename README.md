@@ -1,5 +1,5 @@
 
-## Misiones HECHAS
+## Misiones realizadas
 - Misión 1: A, B, C Retos A, B, C
 - Misión 2:  A (Solo Backend), B (Solo Backend), C
 - Misión 3:  B Reto B (No implementado)
